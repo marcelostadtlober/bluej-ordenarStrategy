@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=lista
+comment0.target=void\ ordenar(int[])
+comment1.params=lista
+comment1.target=int[]\ sort(int[])
+comment2.params=esq\ dir
+comment2.target=int[]\ mergeSort(int[],\ int[])
+numComments=3

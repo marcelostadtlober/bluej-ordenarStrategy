@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=lista
+comment0.target=void\ ordenar(int[])
+comment1.params=lista
+comment1.target=void\ controiMaxHeap(int[])
+comment2.params=lista\ pos\ n
+comment2.target=void\ maxHeapify(int[],\ int,\ int)
+comment3.params=lista\ j\ aposJ
+comment3.target=void\ swap(int[],\ int,\ int)
+numComments=4
